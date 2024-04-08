@@ -36,7 +36,7 @@
     <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="Postgre SQL" width="40" height="40" />
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"
         alt="bootstrap" width="40" height="40" />
 </p>
 <p><img align="center"
