@@ -17,9 +17,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<p align="left"> 
 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-        width="40" height="40" />
+   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+        width="40" height="40" /> </a>
     <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" width="40" height="40" />
     <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="spring boot" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -43,7 +44,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40" />
 
-
+</p>
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=tahaakocer&show_icons=true&locale=en&layout=compact"
         alt="adl1coder" /></p>
