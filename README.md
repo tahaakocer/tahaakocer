@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha KOÇER</h1>
 <h3 align="center">A passionate Junior developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Kotlin, Android, Spring Boot, RESTful API**
+- 🌱 I’m currently learning **Spring Boot, RESTful API, Kotlin, Android**
 
 - 📫 How to reach me **taha.kocer317@gmail.com**
 
