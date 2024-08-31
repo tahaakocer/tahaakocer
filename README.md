@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Junior developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Spring Boot, RESTful API, SAP, SAPUI5, Fiori**
-- 💻 I'm currently interning at **Solvia Digital Solutions**
+- 💻 I'm currently interning at **Solvia Digital Solutions** and **Yazılım.xyz**
 - 📫 How to reach me **taha.kocer317@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
