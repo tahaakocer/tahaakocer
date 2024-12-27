@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha KOÇER</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 💻 I'm currently interning at **Yazılım.xyz**
+- 💻 I'm currently working on project **Nerede Bu Otobüs? - Sosyal**
 
 - 🌱 I’m currently learning **Spring Boot, Microservices, API**
 
