@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taha KOÇER</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 💻 I'm currently working on project **"Nerede Bu Otobüs? - Sosyal"**
+- 💻 I'm currently working on project **"Nerede Bu Otobüs?", "Telecommunication Microservices with Java"**
 
-- 🌱 I’m currently learning **Spring Boot, Microservices, API**
+- 🌱 I’m currently learning **Camunda, Telecommunications, BPMN processes**
 
 - 📫 How to reach me **taha.kocer317@gmail.com**
 
@@ -20,6 +20,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+      <a href="https://www.camunda.com" target="_blank" rel="noreferrer">
+    <img src="https://yt3.googleusercontent.com/t1VeqGfECeb4No7HKp3e6LwKxXmF5QrIbjyWEHpswPRMgFn4KRmWikZaHCF6AyfvdFq6qpT_cw=s900-c-k-c0x00ffffff-no-rj" alt="camunda" width="40" height="40"/> </a> 
      <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
        <a href="https://postman.com" target="_blank" rel="noreferrer">
