@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha KOÇER</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 💻 I'm currently working on project **"Nerede Bu Otobüs?", "Telecommunication Microservices with Java"**
+- 💻 I'm currently working on project **"Nerede Bu Otobüs?", "Telecommunication Microservices"**
 
 - 🌱 I’m currently learning **Camunda, Telecommunications, BPMN processes**
 
