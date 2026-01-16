@@ -4,8 +4,8 @@
 - 💼 I'm currently working at **PiA (People in Action)** as a **AI-Powered Software Engineer**
   
 - 💻 I'm currently working on project [**"TCDD"**](https://raildevhub.pia-team.com/)
-- 
-<!-- - 🌱 I’m currently learning **Camunda, Telecommunications, BPMN processes** -->
+
+- 🌱 I’m currently learning **Generative AI and Integrating LLMs into Enterprise Applications**
 
 - 📫 How to reach me **taha.kocer317@gmail.com**
 
