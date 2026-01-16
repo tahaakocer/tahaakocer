@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Taha KOÇER</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h3 align="center">A passionate software engineer from Turkey</h3>
 
-- 💼 I'm currently working at **PiA (People in Action)** as a **Java Backend Developer**
+- 💼 I'm currently working at **PiA (People in Action)** as a **AI-Powered Software Engineer**
   
-- 💻 I'm currently working on project **"Nerede Bu Otobüs?", "TCDD"**
-
-- 🌱 I’m currently learning **Camunda, Telecommunications, BPMN processes**
+- 💻 I'm currently working on project [**"TCDD"**](https://raildevhub.pia-team.com/)
+- 
+<!-- - 🌱 I’m currently learning **Camunda, Telecommunications, BPMN processes** -->
 
 - 📫 How to reach me **taha.kocer317@gmail.com**
 
